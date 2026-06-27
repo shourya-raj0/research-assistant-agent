@@ -4,9 +4,6 @@ An agentic AI system that autonomously researches topics, searches the web, and 
 
 
 #Live Demo https://huggingface.co/spaces/shourya-raj/research-assistant-agent
-=======
-#Live Demo
-https://huggingface.co/spaces/shourya-raj/research-assistant-agent
 
 
 ## Overview
