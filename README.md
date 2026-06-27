@@ -2,6 +2,9 @@
 
 An agentic AI system that autonomously researches topics, searches the web, and generates structured research summaries using LangGraph.
 
+#Live Demo
+https://huggingface.co/spaces/shourya-raj/research-assistant-agent
+
 ## Overview
 
 This project demonstrates a multi-agent workflow built with LangGraph that:
